@@ -1,0 +1,6 @@
+https://www.figma.com/design/YEj1KPle1oJflKuD3FOO7D/DeliEn---MVP---F?node-id=0-1
+
+Technical:
+
+Reanimated:
+1. Pan Gesture
